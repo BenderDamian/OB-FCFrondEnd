@@ -29,15 +29,15 @@ Ejercicios HTML, CSS y JavaScript
 
 **Ejercicio 4.** Añade funcionalidad a los campos de ordenación con los datos de ejemplo
 
-![Untitled]()
+![Funcionalidades de ordenación](https://github.com/BenderDamian/OB-FCFrondEnd/blob/img/Funcionalidades.png)
 
 **Ejercicio 5.** Añade la funcionalidad de búsqueda por nombre, mail o ciudad:
 
-![Untitled]()
+![funcionalidades de búsqueda](https://github.com/BenderDamian/OB-FCFrondEnd/blob/img/busqueda.png)
 
 **Ejercicio 6.** Maqueta la parte de formulario de Candidato:
 
-![Untitled]()
+![Maqueta de perfil del candidato](https://github.com/BenderDamian/OB-FCFrondEnd/blob/img/perfil.png)
 
 Notas importantes:
 
