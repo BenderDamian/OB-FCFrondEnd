@@ -55,7 +55,7 @@ Notas importantes:
 
 **Ejemplos de pantallas (consultar figma para ver todos los detalles)**
 
-![Imagen de ejemplos de pantallas](https://github.com/BenderDamian/OB-FCFrondEnd/blob/img/Untitled%20.png)
+![Imagen de ejemplos de pantallas](https://github.com/BenderDamian/OB-FCFrondEnd/blob/img/Untitled.png)
 
 ![Imagen de ejemplos de pantallas](https://github.com/BenderDamian/OB-FCFrondEnd/blob/img/Untitled%20(1).png)
 
