@@ -29,15 +29,15 @@ Ejercicios HTML, CSS y JavaScript
 
 **Ejercicio 4.** Añade funcionalidad a los campos de ordenación con los datos de ejemplo
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e213f3a7-39ba-4e36-8729-a03858a2f661/Untitled.png)
+![Untitled]()
 
 **Ejercicio 5.** Añade la funcionalidad de búsqueda por nombre, mail o ciudad:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a2dd3bab-11e1-4acc-8760-d23324bce4f0/Untitled.png)
+![Untitled]()
 
 **Ejercicio 6.** Maqueta la parte de formulario de Candidato:
 
-![Untitled](https://github.com/BenderDamian/OB-FCFrondEnd/blob/img/Untitled%20(1).png)
+![Untitled]()
 
 Notas importantes:
 
@@ -55,7 +55,7 @@ Notas importantes:
 
 **Ejemplos de pantallas (consultar figma para ver todos los detalles)**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47e086f2-b347-4802-899b-6c19f033bc54/Untitled.png)
+![Imagen de ejemplos de pantallas](https://github.com/BenderDamian/OB-FCFrondEnd/blob/img/Untitled%20.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b143dd4-e767-42e2-ba63-77a388816263/Untitled.png)
+![Imagen de ejemplos de pantallas](https://github.com/BenderDamian/OB-FCFrondEnd/blob/img/Untitled%20(1).png)
 
