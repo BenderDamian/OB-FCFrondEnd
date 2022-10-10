@@ -37,7 +37,7 @@ Ejercicios HTML, CSS y JavaScript
 
 **Ejercicio 6.** Maqueta la parte de formulario de Candidato:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69e2030e-9f5a-4a85-a8fb-e7a6f2ce0b21/Untitled.png)
+![Untitled](https://github.com/BenderDamian/OB-FCFrondEnd/blob/img/Untitled%20(1).png)
 
 Notas importantes:
 
